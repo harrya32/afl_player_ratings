@@ -38,4 +38,8 @@ The data I have based my project on is sourced from [MichaelStone's Kaggle](http
 * Percent played
 
 ## Rating system
-Using these stats, I endeavoured to make a player rating system, similar to what has been done with AFL fantasy or supercoach points, in order to be able to grade each player's overall game. To do this, I first calculated the correlations between each in-game stat and the overall game margin, to essentially grade the worth of each stats. The higher the correlation, the more important I considered the stat to be as, in general, if a player got a lot of that specific stat, their team's margin would improve.
+Using these stats, I endeavoured to make a player rating system, similar to what has been done with AFL fantasy or supercoach points, in order to be able to grade each player's overall game. To do this, I first calculated the correlations between each in-game stat and the overall game margin, to essentially grade the worth of each stats. The higher the correlation, the more important I considered the stat to be, as in general if a player got a lot of that specific stat, their team's margin would improve.
+
+## Stats predicting player performance
+
+## Stats predicting team performance
